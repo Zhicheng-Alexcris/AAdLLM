@@ -1,22 +1,25 @@
-# AAdLLM
-Ancient Architecture distill LLM
-全称：Ancient Architecture distill Large Language Model
-致力于保护每一座历史建筑
-项目简介
-“Ancient Architecture distill LLM” 是一个基于大语言模型（deepseek r1 7b版本）的开源项目，专注于历史建筑的保护。通过结合缺陷解析成因分析和流程档案生成技术，项目为历史建筑的科学研究和保护工作提供支持。我们的目标是利用先进的多模态数据处理和自然语言生成能力，助力每一座历史建筑的保护与传承。
-功能介绍
-项目包含两大核心功能，每个功能下设三个子功能，具体如下：
-1. 基于多模态数据的成因解析方法
-多结构数据交互融合方法：集成多种结构化与非结构化数据，生成全面的历史建筑缺陷分析。
+# Ancient Architecture distill LLM
+ ## SF：AAdLLM
+**Project Introduction**
 
-数字化病因展示方法：将复杂的缺陷成因转化为直观的数字化展示，方便研究与应用。
+AAdLLM is an open-source project built upon a large language model (DeepSeek R1 7B version), dedicated to the protection of historical buildings. By integrating defect analysis and process archive generation technologies, this project aims to support scientific research and conservation efforts for historical architecture. Our mission is to harness advanced multimodal data processing and natural language generation capabilities to preserve and protect every historical building.
+##
+## Features
+The project offers two core functionalities, each with three sub-features, outlined below:
+   
+**1. Cause Analysis Method Based on Multimodal Data**
 
-本地化接入专家经验的自然语言成因解析方法：结合本地专家知识，通过自然语言处理技术解析缺陷成因，提升分析的针对性和实用性。
+-   Multi-Structure Data Interaction and Fusion Method: Combines diverse structured and unstructured data to produce comprehensive defect analyses for historical buildings.
+    
+-   Digitalized Cause Display Method: Converts complex defect causes into intuitive digital visualizations, facilitating research and practical application.
+    
+-   Natural Language Cause Analysis Method with Localized Expert Experience: Integrates local expert knowledge with natural language processing to deliver precise and practical defect cause analyses.
+    
 
-2. 基于DeepSeek R1模型的流程档案生成方法
-流程档案格式学习：自动学习并生成符合行业标准的流程档案格式，提高档案生成效率。
+**2. Process Archive Generation Method Based on DeepSeek R1 Model**
 
-时变信息与固定映射方法：处理时间变化信息与固定信息之间的映射关系，确保档案内容准确一致。
-
-历史建筑损伤推演技术：基于模型推演历史建筑的损伤演变过程，为保护策略提供预测性依据。
-
+-   Process Archive Format Learning: Automatically learns and generates process archives in industry-standard formats, enhancing efficiency.
+    
+-   Time-Varying Information and Fixed Mapping Method: Ensures accurate and consistent mapping between time-varying and fixed information in archives.
+    
+-   Historical Building Damage Evolution Technology: Employs model-based inference to predict the damage evolution of historical buildings, offering valuable insights for conservation planning.
